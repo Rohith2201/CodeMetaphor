@@ -10,8 +10,8 @@ This is Official Repository of Codemetaphor Instagram Tech Page
 </p>
 💬Mail to: codemetaphor23@gmail.com For Services
 <p>
-<h3>Portfolio:</h3>
+<h3>Our Clients:</h3>
 <a href="https://vrkreddy.com/">
-    <img width="400" src="assests/blue white minimalist bulb math logo design (2).png" />
+    <img width="200" src="assests/blue white minimalist bulb math logo design (2).png" />
 
 </p>
