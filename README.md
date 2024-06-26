@@ -11,8 +11,7 @@ This is Official Repository of Codemetaphor Instagram Tech Page
 💬Mail to: codemetaphor23@gmail.com For Services
 <p>
 <h3>Portfolio:</h3>
-<a href="https://quine.sh?utm_source=widgets&utm_campaign=Rohith2201">
-    <img width="400" src="https://stats.quine.sh/Rohith2201/languages-over-time?theme=dark" />
-1.https://vrkreddy.com/
+<a href=".https://vrkreddy.com/">
+    <img width="400" src="assests/blue white minimalist bulb math logo design (2).png" />
 
 </p>
